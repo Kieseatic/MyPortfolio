@@ -2592,7 +2592,7 @@ input, select, textarea {
     -ms-justify-content: space-between;
     justify-content: space-between;
     background-color: #1f1815;
-    background-image: url("images/overlay.png"), url("../../images/Profile.jpg");
+    background-image: url("images/overlay.png"), url("../../images/code.jpg");
     background-position: center bottom, center center; /* Adjusted positions */
     background-repeat: repeat, no-repeat;
     background-size: cover, 150%; /* Adjusted size for proper scaling */
